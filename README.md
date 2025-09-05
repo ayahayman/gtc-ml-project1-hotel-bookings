@@ -1,4 +1,3 @@
-[...existing code...]
 # Hotel Bookings Data Analysis & Machine Learning Project
 
 ## Overview
